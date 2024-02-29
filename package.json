@@ -1,0 +1,15 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "App to show recent news using News API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i input.css -o output.css --watch"
+  },
+  "author": "Animesh Rath",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
